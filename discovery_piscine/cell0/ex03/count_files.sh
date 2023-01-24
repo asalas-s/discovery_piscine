@@ -1,1 +1,1 @@
-ls -l | wc -l | tr -d " "
+ls -l | grep -v "total " | wc -l | tr -d " "

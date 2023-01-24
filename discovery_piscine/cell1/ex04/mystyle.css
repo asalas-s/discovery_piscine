@@ -1,0 +1,12 @@
+body {
+	background-color: pink;
+}
+h1 {
+	color: rgb(255, 255, 255);
+	text-align: center;
+}
+h5 {
+	text-align: right;
+	font-family: monospace;
+	font-style: italic;
+}

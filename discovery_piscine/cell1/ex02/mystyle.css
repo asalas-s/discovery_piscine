@@ -4,3 +4,16 @@ h1 {
 tr {
 	text-align: center;
 }
+table{
+	width:100%;
+	margin:0 auto;
+}
+
+table image{
+
+	width:auto;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}

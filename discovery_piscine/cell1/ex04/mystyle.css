@@ -10,3 +10,16 @@ h5 {
 	font-family: monospace;
 	font-style: italic;
 }
+table {
+	text-align: center;
+	width: 100%;
+}
+td {
+	text-align: center;
+}
+.responsive {
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+	max-width: 600px;
+}

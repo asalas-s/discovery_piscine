@@ -62,6 +62,6 @@
    
    /* items del menu desplegable al pasar el ratón */
    
-   #menu ul li:hover > ul {
+   #menu ul li:hover ul {
 	display:block;
    }
